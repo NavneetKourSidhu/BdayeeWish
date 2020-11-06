@@ -1,0 +1,24 @@
+#bdayeeWishes {
+  background: grey;
+  color: #FF7F50;
+  width: 25%;
+  min-width: 300px;
+  border: 8px solid black;
+  border-left: 10px solid #FF7F50;
+  border-right: 10px solid #FF7F50;
+  margin: 10px;
+  padding: 20px;
+}
+
+.text {
+  color: black;
+}
+
+.signature {
+  text-align: right;
+}
+
+strong {
+  font-size: large;
+  color: black;
+}
